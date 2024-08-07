@@ -12,6 +12,6 @@ Install from webui's Extensions tab.
 
 # Credits
 
-* ZeST library that does all the work: https://github.com/InstantID/InstantID
+* Instantid library that does all the work: https://github.com/InstantID/InstantID
 
 
